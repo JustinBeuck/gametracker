@@ -1,0 +1,1 @@
+angular.module('gametracker', ['ngRoute', 'appRoutes', 'MainCtrl']);
